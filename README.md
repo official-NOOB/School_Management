@@ -1,4 +1,4 @@
-# School_Management
+# SchoolManagement
 A Java + JDBC based uploading  School Management System and storing SQL database.
 
 ## 🥏 Technolgies Used 
@@ -6,7 +6,7 @@ A Java + JDBC based uploading  School Management System and storing SQL database
   2. JDBC
   3. SQL/oracle database
 
-## 💡 FEATURES 
+## 💡 Feature
   1. student record management
   2. Teacher record management 
   3. Leave Management
